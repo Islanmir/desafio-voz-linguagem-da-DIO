@@ -17,10 +17,10 @@ Este desafio faz parte da formação de IA da **Digital Innovation One (DIO)**.
 - Insight: o laboratório atual mostra um ambiente de demonstração, mas o recurso está pronto para uso via API em aplicações reais.
 
 📸 *Exemplo de conversão de texto em voz:*
-![Texto em Voz](images/texto-em-voz.png)
+![Texto em Voz](images/texto em voz.png)
 
 📸 *Exemplo de reconhecimento de fala:*
-![Voz em Texto](images/voz-em-texto.png)
+![Voz em Texto](images/voz em texto.png)
 
 ---
 
